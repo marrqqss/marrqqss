@@ -1,5 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Marc Ribas!  
-Welcome to my GitHub page! Here I will post:
+Welcome to my GitHub page! Here I'll post:
   - Coding projects for college
   - Videogame projects (hopefully)
   - Personal projects
