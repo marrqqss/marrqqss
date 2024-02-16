@@ -18,4 +18,4 @@ Welcome to my GitHub page! Here I will post:
 #### How to contact me: `marcribasacon@gmail.com`
 
 <p align="left">
-<img src="https://media.tenor.com/OTXBI8ZCQEcAAAAM/asuko.gif" width="380">
+<img src="https://media.tenor.com/OTXBI8ZCQEcAAAAM/asuko.gif" width="350">
