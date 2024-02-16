@@ -1,17 +1,20 @@
-# Hi there, I'm Marc Ribas <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-### hola
+# Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">, I'm Marc Ribas!  
+Welcome to my GitHub page! Here I will post:
+  - Coding projects for college
+  - Videogame projects (hopefully)
+  - Personal projects
 
-<!--
-**marrqqss/marrqqss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About me...
+  - He/Him pronouns.
+  - 20 yo software engineering student at <a href="https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica">FIB UPC</a>.
+  - Heavily interested in the videogame industry.
+  - Software development oriented.
 
-Here are some ideas to get you started:
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Coding languages
+  - C
+  - C++
+  - C#
+  - Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<img src="https://media.tenor.com/OTXBI8ZCQEcAAAAM/asuko.gif" width="400">
