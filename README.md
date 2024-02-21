@@ -3,6 +3,7 @@ Welcome to my GitHub page! Here I'll post:
   - Coding projects for college
   - Videogame projects (hopefully)
   - Personal projects
+  - Hackathon projects
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About me...
   - 20 yo software engineering student at <a href="https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica">FIB UPC</a>.
